@@ -29,7 +29,8 @@ def bubble_sort(list_var):
 print("unsorted List",list_to_be_sorted_var)
 list_sorted_var = bubble_sort(list_to_be_sorted_var)
 print("Sorted list in inreasing order(aesending)",list_sorted_var)
-
+#----------------------------------------------------xoxoxoxoxoxoxoxxo------------------------------------------------------------------------------
+#----------------------------------------------------xoxoxoxoxooxoxoxo------------------------------------------------------------------------------
 
 #function to perform sorting desending order
 def bubble_sort_2(list_var):
