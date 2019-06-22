@@ -52,7 +52,8 @@ print("Sorted list in deacrsing order(desending)",list_sorted_var)
 print()
 print("Sorting by using Sort() Function")
 sample_list_var = [2,3,4,1,3,5]
-print("unsorted",sample_list_var)
+print("Unsorted",sample_list_var)
 sample_list_var.sort()
-print("sorted",sample_list_var)
+print("Sorted",sample_list_var)
 
+#2####
